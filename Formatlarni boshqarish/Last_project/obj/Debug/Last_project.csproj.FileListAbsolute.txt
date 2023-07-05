@@ -1,0 +1,11 @@
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\bin\Debug\Last_project.exe.config
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\bin\Debug\Last_project.exe
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\bin\Debug\Last_project.pdb
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.csproj.AssemblyReference.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.Form1.resources
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.Properties.Resources.resources
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.csproj.GenerateResource.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.csproj.CoreCompileInputs.cache
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.exe
+C:\Users\Azure AI\Desktop\Foziljon\Dasturlash asoslari\Dasturlar\Tizimli\Last_project\Last_project\obj\Debug\Last_project.pdb
